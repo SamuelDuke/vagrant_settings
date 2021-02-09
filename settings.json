@@ -1,0 +1,12 @@
+{
+	"path_map": {
+        "Entrata": "C:/vhosts/Entrata",
+        "Common": "C:/vhosts/Common",
+		"PsCoreConfig": "C:/vhosts/PsCoreConfig",
+        "Mounts": "C:/vhosts/Mounts",
+        "NonBackupMounts": "C:/vhosts/NonBackupMounts",
+        "Logs": "C:/vhosts/Logs",
+        "Interfaces": "C:/vhosts/Interfaces",
+        "PsLibraries": "C:/vhosts/PsLibraries"
+    }
+}
